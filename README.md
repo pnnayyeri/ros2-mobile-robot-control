@@ -6,7 +6,7 @@ A ROS2-based mobile robot simulation with navigation, SLAM, and obstacle avoidan
 ## 🚀 Features  
 - **Robot Simulation**: Differential-drive robot in Gazebo/Isaac Sim.  
 - **Navigation Stack**: Path planning and obstacle avoidance.  
-- **SLAM**: Mapping and localization with LIDAR or depth camera.  
+- **SLAM**: Mapping and localization with 2D LIDAR.  
 - **ROS2 Packages**: Modular nodes with launch files.  
 - **Dockerized Setup**: One-line install and run for reproducibility.  
 

@@ -69,11 +69,11 @@ Soon...
 
 
 ## 🛠️ Tech Stack
-*ROS2 Humble
-*Gazebo / Isaac Sim
-*Nav2 (Navigation Stack)
-*SLAM Toolbox
-*Docker
+* ROS2 Humble
+* Gazebo / Isaac Sim
+* Nav2 (Navigation Stack)
+* SLAM Toolbox
+* Docker
 
 ## 📈 Roadmap
 - [ ] Add camera-based navigation
@@ -84,5 +84,5 @@ Soon...
 MIT License. See [LICENSE](https://opensource.org/license/mit).
 
 ## 👤 Author
-Pooyan Nayyeri
+Pooyan Nayyeri\
 [LinkedIn](https://www.linkedin.com/in/pnnayyeri/)

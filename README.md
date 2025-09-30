@@ -31,7 +31,7 @@ ros2-mobile-robot-control\
 
 ### 1. Clone the repository  
 ```bash
-git clone https://github.com/your-username/ros2-mobile-robot-control.git
+git clone https://github.com/pnnayyeri/ros2-mobile-robot-control.git
 cd ros2-mobile-robot-control
 ```
 
@@ -76,9 +76,9 @@ Soon...
 * Docker
 
 ## 📈 Roadmap
-- [ ] Add camera-based navigation
-- [ ] Multi-robot simulation
-- [ ] Deploy on physical robot
+- [ ] Add camera-based navigation (in Progress)
+- [ ] Multi-robot simulation (in Progress)
+- [ ] Deploy on physical robot (in Progress)
 
 ## 📜 License
 MIT License. See [LICENSE](https://opensource.org/license/mit).

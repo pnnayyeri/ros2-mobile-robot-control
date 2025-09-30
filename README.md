@@ -76,9 +76,9 @@ Soon...
 *Docker
 
 ## 📈 Roadmap
-[ ] Add camera-based navigation\
-[ ] Multi-robot simulation\
-[ ] Deploy on physical robot
+- [ ] Add camera-based navigation\
+- [ ] Multi-robot simulation\
+- [ ] Deploy on physical robot
 
 ## 📜 License
 MIT License. See [LICENSE](https://opensource.org/license/mit).

@@ -13,17 +13,17 @@ A ROS2-based mobile robot simulation with navigation, SLAM, and obstacle avoidan
 ---
 
 ## 📂 Repository Structure  
-ros2-mobile-robot-control/
-│── src/ # ROS2 packages
-│ ├── robot_description/ # URDF, meshes
-│ ├── robot_bringup/ # Launch files
-│ ├── robot_navigation/ # Nav2 config
-│ ├── robot_slam/ # SLAM config
-│── worlds/ # Gazebo world files
-│── docker/ # Docker build files
-│── scripts/ # Utility scripts
-│── docs/ # Documentation and diagrams
-│── README.md # This file
+ros2-mobile-robot-control\
+│── src/ # ROS2 packages\
+│ ├── robot_description/ # URDF, meshes\
+│ ├── robot_bringup/ # Launch files\
+│ ├── robot_navigation/ # Nav2 config\
+│ ├── robot_slam/ # SLAM config\
+│── worlds/ # Gazebo world files\
+│── docker/ # Docker build files\
+│── scripts/ # Utility scripts\
+│── docs/ # Documentation and diagrams\
+│── README.md # This file\
 
 ---
 

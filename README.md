@@ -23,7 +23,7 @@ ros2-mobile-robot-control\
 │── docker/ # Docker build files\
 │── scripts/ # Utility scripts\
 │── docs/ # Documentation and diagrams\
-│── README.md # This file\
+│── README.md # This file
 
 ---
 
